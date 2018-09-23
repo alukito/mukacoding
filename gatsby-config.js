@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    url: 'https://mukacoding.com',
+    title: 'Blog by Andreas Lukito',
+    subtitle: 'Everything vibrates',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,7 +20,7 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
+      name: 'Andreas Lukito',
       email: '#',
       telegram: '#',
       twitter: '#',
